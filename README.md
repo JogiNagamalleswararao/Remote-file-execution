@@ -31,7 +31,7 @@ This repository contains comprehensive guides for executing Python scripts on re
 
 ## 📚 Documentation
 
-### 1. [Raspberry Pi Remote Execution](./raspberry-pi-remote-execution.md)
+### 1. [Raspberry Pi Remote Execution](./remote_execution_docs.md)
 
 Complete guide for Raspberry Pi IoT deployments:
 
@@ -45,7 +45,7 @@ Complete guide for Raspberry Pi IoT deployments:
 - Edge computing projects
 - Raspberry Pi projects
 
-### 2. [Cross-Platform Remote Execution](./cross-platform-remote-execution.md)
+### 2. [Cross-Platform Remote Execution](./cross_platform_execution.md)
 
 Universal guide for heterogeneous environments:
 
