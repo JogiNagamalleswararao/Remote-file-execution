@@ -527,9 +527,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Naga Malleswara Rao**  
 Cadfem IT
 
-- Email: contact@cadfem.com
-- LinkedIn: [Connect with us](https://linkedin.com/company/cadfem)
-- Website: [www.cadfem.com](https://www.cadfem.com)
+- Email: cadfemmalli@gmail.com
+- LinkedIn: [Connect with us](https://in.linkedin.com/in/joginagamalleswararao)
+
 
 ## 🙏 Acknowledgments
 
@@ -542,9 +542,7 @@ Cadfem IT
 
 ## 📞 Support
 
-- 📧 Email: support@cadfem.com
-- 💬 GitHub Issues: [Create an issue](https://github.com/yourusername/remote-execution-guide/issues)
-- 📖 Documentation: [Full Docs](https://github.com/yourusername/remote-execution-guide/wiki)
+- 📧 Email: cadfemmalli@gmail.com
 
 ## 🗺️ Roadmap
 
